@@ -1,0 +1,23 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "Curso ES JS",
+  "main": "readme.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yarodcl/curso-ecmascript-js.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Ecmascript"
+  ],
+  "author": "Yarod Aliaga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yarodcl/curso-ecmascript-js/issues"
+  },
+  "homepage": "https://github.com/Yarodcl/curso-ecmascript-js#readme"
+}
